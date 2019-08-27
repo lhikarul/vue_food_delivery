@@ -1,0 +1,51 @@
+{
+    "seller": {
+        "name": "粥品香坊（回龍觀）",
+        "description": "蜂鳥專送",
+        "deliveryTime": 38,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "bulletin": "粥品香坊其烹飪粥料的秘方源於中國千年古法，在融和現代製作工藝，由世界烹飪大師屈浩先生領銜研發。堅守純天然、0添加的良心品質深得消費者青睞，發展至今成為粥類的引領品牌。是2008年奧運會和2013年園博會指定餐飲服務商。",
+        "supports": [
+        {
+        "type": 0,
+        "description": "在線支付滿28減5"
+        },
+        {
+        "type": 1,
+        "description": "VC無限橙果汁全場8折"
+        },
+        {
+        "type": 2,
+        "description": "單人精采套餐"
+        },
+        {
+        "type": 3,
+        "description": "該商家支持發票,請下單寫好發票抬頭"
+        },
+        {
+        "type": 4,
+        "description": "已加入“外賣保”計劃,食品安全保障"
+        }
+        ],
+        "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
+        "pics": [
+        "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+        "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
+        "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180",
+        "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180"
+        ],
+        "infos": [
+        "該商家支持發票,請下單寫好發票抬頭",
+        "品類:其他菜系,包子粥店",
+        "北京市昌平區回龍觀西大街龍觀置業大廈底商B座102單元1340",
+        "營業時間:10:00-20:30"
+        ]
+        }
+}
